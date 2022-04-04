@@ -1,1 +1,2 @@
-# samsung_s20_device_tree
+Device Tree for Samsung Galaxy S20,
+Under developement...
