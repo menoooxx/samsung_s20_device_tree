@@ -1,0 +1,1 @@
+# samsung_s20_device_tree
